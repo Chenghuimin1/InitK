@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aa="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    android:orientation="horizontal">
+
+   <cheng.com.bawie.initkong.Custermer
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/customera"
+       aa:image="@mipmap/ic_launcher"
+       aa:text="滴滴滴滴哒哒"
+       aa:text_color="@color/colorPrimary"
+       aa:text_size="32dp"
+       ></cheng.com.bawie.initkong.Custermer>
+   
+</LinearLayout>

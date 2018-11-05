@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <chenghuimin.bwie.com.yuan01.Cricle
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:id="@+id/cricle"
+      app:mainColor1="#ff2522"
+      app:mainColor2="#766584"
+      app:mainColor3="#066f35"
+      app:mainColor4="#680070"
+      app:mainColor5="#ff2661"
+      app:mainColor6="#6025ff"
+      />
+
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/cricle1" />
+            <option value="$PROJECT_DIR$/initkong" />
+            <option value="$PROJECT_DIR$/jieti" />
+            <option value="$PROJECT_DIR$/kj01" />
+            <option value="$PROJECT_DIR$/lx01" />
+            <option value="$PROJECT_DIR$/lx02" />
+            <option value="$PROJECT_DIR$/toolbar02" />
+            <option value="$PROJECT_DIR$/toolbar1" />
+            <option value="$PROJECT_DIR$/yuan01" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

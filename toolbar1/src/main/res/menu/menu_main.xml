@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:toolBar="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+   <item android:id="@+id/frist"
+       android:icon="@mipmap/ic_launcher"
+       android:orderInCategory="1"
+       toolBar:showAsAction="never"
+       android:title="点击编辑"
+       ></item>
+    <item
+        android:id="@+id/second"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="2"
+        toolBar:showAsAction="ifRoom"
+        android:title="点击分享"
+        ></item>
+</menu>
